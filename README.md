@@ -1,7 +1,5 @@
 <p align="center"><a href="https://www.instagram.com/jusanomalic/" target="_blank"><img src="https://cdn.dribbble.com/users/4674024/screenshots/9512223/media/c00fe1de57846d2e581df0a273ebe976.png?compress=1&resize=100x100"></a></p>
 
-<p align="center">Dashgraph</p>
-
 ## About Dashgraph
 
 Dashgraph is Basics of a Clean and Simple Dashboard Template using Laravel Breeze
